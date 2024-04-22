@@ -1,1 +1,2 @@
 Marlesha Ellis(owner of repository) and I(Austin Neal) Collaborated on this homework. The code is primarily from smays stem files. Our primary form of communication and file sharing is Discord.
+I attempted the extra credit but didnt find the classes for the springs or dampeners in week 11 repository, so I tried to make my own spring class just a zigzag but it kept breaking apart. That Failed attempt is labeled as such.
